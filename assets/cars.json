@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "brand": "Chevrolet",
+        "vehicle": "corvette",
+        "imgUrl": "images/Corvette.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "GMC",
+        "vehicle": "hummer",
+        "imgUrl": "images/Hummer.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Buick",
+        "vehicle": "encore",
+        "imgUrl": "images/Encore.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Cadillac",
+        "vehicle": "Escalade",
+        "imgUrl": "images/escalade.jpg"
+    }
+]
